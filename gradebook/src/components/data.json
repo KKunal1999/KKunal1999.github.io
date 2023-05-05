@@ -1,0 +1,165 @@
+[
+  {
+    "no":1,
+    "name": "John Doe",
+    "ticket_number": "12345",
+    "rating_grade": 3,
+    "exam_grade": 2,
+    "Details":"Need a lot Improvement"
+    
+  },
+  {
+    "no":2,
+    "name": "Jane Smith",
+    "ticket_number": "54321",
+    "rating_grade": 2,
+    "exam_grade": 1,
+    "Details":"Need a lot Improvement"
+  },
+  {
+    "no":3,
+    "name": "Bob Johnson",
+    "ticket_number": "98765",
+    "rating_grade": 7,
+    "exam_grade": 4,
+    "Details":"Very Good"
+  },
+  {
+    "no":4,
+    "name": "Aryan",
+    "ticket_number": "78945",
+    "rating_grade": 9.5,
+    "exam_grade": 7.2,
+    "Details":"Excellent"
+  },
+  {
+    "no":5,
+    "name": "Bebo",
+    "ticket_number": "89456",
+    "rating_grade": 1,
+    "exam_grade": 1,
+    "Details":"Need a lot Improvement"
+  },
+  {
+    "no":6,
+    "name": "Dibyansh",
+    "ticket_number": "96541",
+    "rating_grade": 7.2,
+    "exam_grade": 9.5,
+    "Details":"Excellent"
+  },
+  {
+    "no":7,
+    "name": "Shivansh",
+    "ticket_number": "45612",
+    "rating_grade": 7,
+    "exam_grade": 4,
+    "Details":"Need some Improvement"
+  },
+  {
+    "no":8,
+    "name": "Joseph",
+    "ticket_number": "56123",
+    "rating_grade": 2,
+    "exam_grade": 2,
+    "Details":"Need a lot Improvement"
+  },
+  {
+    "no":9,
+    "name": "Shweta",
+    "ticket_number": "63214",
+    "rating_grade": 8,
+    "exam_grade": 4.5,
+    "Details":"Very Good"
+  },
+  {
+    "no":10,
+    "name": "Roy",
+    "ticket_number": "12365",
+    "rating_grade": 1,
+    "exam_grade": 2,
+    "Details":"Need a lot Improvement"
+  },
+  {
+    "no":11,
+    "name": "Kushum",
+    "ticket_number": "23658",
+    "rating_grade": 2,
+    "exam_grade": 2,
+    "Details":"Need a lot Improvement"
+  },
+  {
+    "no":12,
+    "name": "Atmaram",
+    "ticket_number": "65894",
+    "rating_grade": 9.6,
+    "exam_grade": 9,
+    "Details":"Excellent"
+  },
+  {
+    "no":13,
+    "name": "Jethalal",
+    "ticket_number": "65804",
+    "rating_grade": 2,
+    "exam_grade": 2,
+    "Details":"Need a lot Improvement"
+  },
+  {
+    "no":14,
+    "name": "Babitaji",
+    "ticket_number": "75894",
+    "rating_grade": 9.4,
+    "exam_grade": 9,
+    "Details":"Excellent"
+  },
+  {
+    "no":15,
+    "name": "HathiBhai",
+    "ticket_number": "67524",
+    "rating_grade": 7.6,
+    "exam_grade": 6,
+    "Details":"Very Good"
+  },
+  {
+    "no":16,
+    "name": "Tarak",
+    "ticket_number": "12894",
+    "rating_grade": 7.8,
+    "exam_grade": 7,
+    "Details":"Very Good"
+  },
+  {
+    "no":17,
+    "name": "Champak",
+    "ticket_number": "74124",
+    "rating_grade": 6.6,
+    "exam_grade": 6,
+    "Details":"Very Good"
+  },
+  {
+    "no":18,
+    "name": "Baga",
+    "ticket_number": "65418",
+    "rating_grade": 8.4,
+    "exam_grade": 7,
+    "Details":"Very Good"
+  },
+  {
+    "no":19,
+    "name": "Komal",
+    "ticket_number": "47358",
+    "rating_grade": 9.6,
+    "exam_grade": 7,
+    "Details":"Very Good"
+  },
+  {
+    "no":20,
+    "name": "Anjali",
+    "ticket_number": "73195",
+    "rating_grade": 8.2,
+    "exam_grade": 7,
+    "Details":"Very Good"
+  }
+]
+
+    
